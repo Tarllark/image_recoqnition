@@ -6,8 +6,6 @@
 #
 # Author:	Tarllark
 #
-# Team:		Successful Story
-#
 ###############################################
 
 import sys
