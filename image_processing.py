@@ -4,7 +4,7 @@
 #
 # Descr:	Recognize crosses and circles, may further be updated with recognizing different animals.
 #
-# Author:	Tarllark
+# Author:	Tarllark & EFGottsche
 #
 # Team:		Successful Story
 #
