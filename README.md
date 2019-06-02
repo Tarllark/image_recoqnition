@@ -20,12 +20,16 @@ Part 2:
    This part being an implemented model trained by ResNet which can compare uploaded files to the CIFAR-10 dataset and give it's best bet at a classification.
 
 How to run:
+
 Part 1:
+
   Download the repo as a zip and run the image_proccesing.py using your preferred method.
+  
  Part 2:
+ 
   Part 2.1:
   
-   Open this link: https://drive.google.com/open?id=1Dn-TJTZTWVgvqUwAcfS7nw503C9NdvqN
+   Open this link: https://drive.google.com/file/d/1Dn-TJTZTWVgvqUwAcfS7nw503C9NdvqN/view?usp=sharing
   Part 2.2:
   
    Open this link: https://drive.google.com/file/d/1PbTume0KYaksMbwjSkq0w5795vus34l1/view?usp=sharing
