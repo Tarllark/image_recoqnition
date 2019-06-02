@@ -14,7 +14,7 @@ Part 2:
   
   part 2.1:
   
-   This is a standard out-of-the-box implementation of ResNet20v1 to train a neural network in the CIFAR-10 data set (The afforementioned external dataset from the synopsis). All credits for this part goes to the people who originally worked out the ResNet.
+   This is a standard out-of-the-box implementation of ResNet to train a neural network in the CIFAR-10 data set (The afforementioned external dataset from the synopsis). All credits for this part goes to the people who originally worked out the ResNet.
  
  part 2.2:
   
