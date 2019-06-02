@@ -11,6 +11,7 @@ Part 1:
 Part 2:
 
   Neural network application hosted on a google collab project running in the cloud. This application is making use of a trained tensorflow engine to differintiate between defferent objects.
+  
   part 2.1:
   
    This is a standard out-of-the-box implementation of ResNet20v1 to train a neural network in the CIFAR-10 data set (The afforementioned external dataset from the synopsis). All credits for this part goes to the people who originally worked out the ResNet.
